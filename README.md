@@ -1,6 +1,6 @@
 Python Projects
 
-1. Factorial Calculator: Write a program that calculates the factorial of a given number using recursion. The factorial of a number is the product of all positive integers less than or equal to that number.
+1. Factorial Calculator: a program that calculates the factorial of a given number using recursion. The factorial of a number is the product of all positive integers less than or equal to that number.
 
 2. Fibonacci Sequence: Implement a program that generates the Fibonacci sequence up to a specified number of terms using recursion. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones.
 
