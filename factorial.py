@@ -5,6 +5,6 @@ def factorial(x):
         return 1
     else:
         return x * factorial(x - 1)
-    num = 2
-
-    print("The factorial of ", num, "is", factorial(num))
+num = 5
+result = factorial(num)
+print("The factorial of ", num, "is", result)
